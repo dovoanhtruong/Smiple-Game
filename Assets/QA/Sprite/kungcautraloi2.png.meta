@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: cd7491f9a465c3a4e9e6c1ffebdca9d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1629632764972269316
+    second: kungcautraloi2_0
+  - first:
+      213: -3831080555108751580
+    second: kungcautraloi2_1
+  - first:
+      213: 3274056169445679064
+    second: kungcautraloi2_2
+  - first:
+      213: 5561416735708271535
+    second: kungcautraloi2_3
+  - first:
+      213: -4127612263202764281
+    second: kungcautraloi2_4
+  - first:
+      213: 6175541487959184773
+    second: kungcautraloi2_5
+  - first:
+      213: -1338229166220612932
+    second: kungcautraloi2_6
+  - first:
+      213: 8223315187491429874
+    second: kungcautraloi2_7
+  - first:
+      213: -6326975470379554047
+    second: kungcautraloi2_8
+  - first:
+      213: 1463416954348721815
+    second: kungcautraloi2_9
+  - first:
+      213: -4211803939851613109
+    second: kungcautraloi2_10
+  - first:
+      213: -8942577967182425667
+    second: kungcautraloi2_11
+  - first:
+      213: -4222529528878560587
+    second: kungcautraloi2_12
+  - first:
+      213: 2930854837465681829
+    second: kungcautraloi2_13
+  - first:
+      213: 5375405718060261124
+    second: kungcautraloi2_14
+  - first:
+      213: -4499524825040722176
+    second: kungcautraloi2_15
+  - first:
+      213: 3504684037310242739
+    second: kungcautraloi2_16
+  - first:
+      213: -8943216719337109439
+    second: kungcautraloi2_17
+  - first:
+      213: -1509017579502434144
+    second: kungcautraloi2_18
+  - first:
+      213: -2194426999312942764
+    second: kungcautraloi2_19
+  - first:
+      213: 5229572431278962029
+    second: kungcautraloi2_20
+  - first:
+      213: 4710907778077114970
+    second: kungcautraloi2_21
+  - first:
+      213: 1299615742878587507
+    second: kungcautraloi2_22
+  - first:
+      213: -6510356318752380978
+    second: kungcautraloi2_23
+  - first:
+      213: -5072333853423274753
+    second: kungcautraloi2_24
+  - first:
+      213: 7050125565773919013
+    second: kungcautraloi2_25
+  - first:
+      213: -1595252126526776659
+    second: kungcautraloi2_26
+  - first:
+      213: 8512494107442688743
+    second: kungcautraloi2_27
+  - first:
+      213: 8412562529951276633
+    second: kungcautraloi2_28
+  - first:
+      213: -1622558761411851675
+    second: kungcautraloi2_29
+  - first:
+      213: 4667331522905008381
+    second: kungcautraloi2_30
+  - first:
+      213: -2951246095719455246
+    second: kungcautraloi2_31
+  - first:
+      213: 2520497097397634568
+    second: kungcautraloi2_32
+  - first:
+      213: -6394981730341736652
+    second: kungcautraloi2_33
+  - first:
+      213: 3843830732823850980
+    second: kungcautraloi2_34
+  - first:
+      213: 5493879575443513004
+    second: kungcautraloi2_35
+  - first:
+      213: 3986674543410817932
+    second: kungcautraloi2_36
+  - first:
+      213: -2805888591962133024
+    second: kungcautraloi2_37
+  - first:
+      213: 6212764199186349667
+    second: kungcautraloi2_38
+  - first:
+      213: 2750517665187374823
+    second: kungcautraloi2_39
+  - first:
+      213: 3362648449987213570
+    second: kungcautraloi2_40
+  - first:
+      213: -1737616686783324431
+    second: kungcautraloi2_41
+  - first:
+      213: 2043847493318778538
+    second: kungcautraloi2_42
+  - first:
+      213: 1728078950717704466
+    second: kungcautraloi2_43
+  - first:
+      213: -5247728384894898484
+    second: kungcautraloi2_44
+  - first:
+      213: 405976938023236098
+    second: kungcautraloi2_45
+  - first:
+      213: 6666766751257974915
+    second: kungcautraloi2_46
+  - first:
+      213: -5403543987504823680
+    second: kungcautraloi2_47
+  - first:
+      213: -3914487565857062208
+    second: kungcautraloi2_48
+  - first:
+      213: -6237904471115667595
+    second: kungcautraloi2_49
+  - first:
+      213: -33338946077269946
+    second: kungcautraloi2_50
+  - first:
+      213: 8416274005681926282
+    second: kungcautraloi2_51
+  - first:
+      213: -8790824807300796771
+    second: kungcautraloi2_52
+  - first:
+      213: 3105948490965247647
+    second: kungcautraloi2_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kungcautraloi2_0
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3600
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f72869d5e9d9610800000000000000
+      internalID: 1629632764972269316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3730
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42726d6788445dac0800000000000000
+      internalID: -3831080555108751580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3634
+        width: 89
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5c7a4db8cf6d20800000000000000
+      internalID: 3274056169445679064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3668
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ddc33e0f1e2d40800000000000000
+      internalID: 5561416735708271535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2603
+        width: 1213
+        height: 819
+      alignment: 9
+      pivot: {x: 0.47022465, y: 0.63249314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac0410486c7b6c0800000000000000
+      internalID: -4127612263202764281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_5
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3662
+        width: 89
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5859e7d834ee3b550800000000000000
+      internalID: 6175541487959184773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_6
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3719
+        width: 90
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba6a5fd9a7ad6de0800000000000000
+      internalID: -1338229166220612932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_7
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 3645
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd508218951f1270800000000000000
+      internalID: 8223315187491429874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_8
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 3713
+        width: 90
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10baa69d4511238a0800000000000000
+      internalID: -6326975470379554047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_9
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 3660
+        width: 758
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 233, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965d3a67f91f4410800000000000000
+      internalID: 1463416954348721815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_10
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3710
+        width: 501
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ccd8db1aaac85c0800000000000000
+      internalID: -4211803939851613109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2997
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db15bd9f7b495e380800000000000000
+      internalID: -8942577967182425667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2991
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba8891f3cf8665c0800000000000000
+      internalID: -4222529528878560587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2921
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af806342fc7ca820800000000000000
+      internalID: 2930854837465681829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_14
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2641
+        width: 1267
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fd59c3507499a40800000000000000
+      internalID: 5375405718060261124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_15
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2590
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0076569d20a7e81c0800000000000000
+      internalID: -4499524825040722176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_16
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 2647
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfdbd5309323a030800000000000000
+      internalID: 3504684037310242739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_17
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 2639
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c396e6cf43e380800000000000000
+      internalID: -8943216719337109439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2186
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a800fda184ee0be0800000000000000
+      internalID: -1509017579502434144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1932
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459fc6c4544db81e0800000000000000
+      internalID: -2194426999312942764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1785
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65fe853b6c239840800000000000000
+      internalID: 5229572431278962029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2022
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5249e92aa1806140800000000000000
+      internalID: 4710907778077114970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2145
+        width: 22
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 22, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a98cae1a9290210800000000000000
+      internalID: 1299615742878587507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_23
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 2189
+        width: 89
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec76b83eb6196a5a0800000000000000
+      internalID: -6510356318752380978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_24
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 2155
+        width: 89
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff474841c337b99b0800000000000000
+      internalID: -5072333853423274753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_25
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 2166
+        width: 87
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523bad159d317d160800000000000000
+      internalID: 7050125565773919013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_26
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 2143
+        width: 89
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa5f2794a68cd9e0800000000000000
+      internalID: -1595252126526776659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_27
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 1728
+        width: 1
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23ab22a44722670800000000000000
+      internalID: 8512494107442688743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1555
+        width: 1250
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed180ac0d6fb470800000000000000
+      internalID: 8412562529951276633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a49d637638b79e0800000000000000
+      internalID: -1622558761411851675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df86cbf9a41b5c040800000000000000
+      internalID: 4667331522905008381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1519
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f522e3ff411b07d0800000000000000
+      internalID: -2951246095719455246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_32
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 1664
+        width: 1
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8060ac381ca9af220800000000000000
+      internalID: 2520497097397634568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_33
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1686
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f2ed19ff57047a0800000000000000
+      internalID: -6394981730341736652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_34
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1675
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efe1be9fa7085530800000000000000
+      internalID: 3843830732823850980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_35
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1679
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae9515bd5e2e3c40800000000000000
+      internalID: 5493879575443513004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 521
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b281bff53835730800000000000000
+      internalID: 3986674543410817932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda6cc113b7f09d0800000000000000
+      internalID: -2805888591962133024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_38
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e34cd5f1c283650800000000000000
+      internalID: 6212764199186349667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_39
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e62eed5e3dcb2620800000000000000
+      internalID: 2750517665187374823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_40
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 758
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209710ef2f68aae20800000000000000
+      internalID: 3362648449987213570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_41
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1224
+        width: 87
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe1d7464deb2e7e0800000000000000
+      internalID: -1737616686783324431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_42
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1433
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae965667743d5c10800000000000000
+      internalID: 2043847493318778538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_43
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 1382
+        width: 89
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219cb5166ae5bf710800000000000000
+      internalID: 1728078950717704466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_44
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1162
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceea9c66d25c27b0800000000000000
+      internalID: -5247728384894898484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_45
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 758
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 66}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20230e9cfd152a500800000000000000
+      internalID: 405976938023236098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 920
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388dd19c90d158c50800000000000000
+      internalID: 6666766751257974915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_47
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 35
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082c3906f51c205b0800000000000000
+      internalID: -5403543987504823680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_48
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 114
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c208677c42fca9c0800000000000000
+      internalID: -3914487565857062208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_49
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 0
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776450fee28e69a0800000000000000
+      internalID: -6237904471115667595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_50
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 435
+        width: 1288
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640e0e9b76e898ff0800000000000000
+      internalID: -33338946077269946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_51
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 0
+        width: 68
+        height: 101
+      alignment: 9
+      pivot: {x: 1.1646944, y: -3.2479477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807609ed9c9cc470800000000000000
+      internalID: 8416274005681926282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_52
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 0
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee42ed967b00680800000000000000
+      internalID: -8790824807300796771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kungcautraloi2_53
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 0
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e4ae42bb8a1b20800000000000000
+      internalID: 3105948490965247647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

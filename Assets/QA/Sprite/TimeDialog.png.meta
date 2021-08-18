@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: e1c67f7b22804454691c994abfd7fae4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9192624029673540213
+    second: TimeDialog_0
+  - first:
+      213: 9137770369358930791
+    second: TimeDialog_1
+  - first:
+      213: 4264795340653607207
+    second: TimeDialog_2
+  - first:
+      213: -6616106412772368620
+    second: TimeDialog_3
+  - first:
+      213: 2995087253096925423
+    second: TimeDialog_4
+  - first:
+      213: -3289031844686153787
+    second: TimeDialog_5
+  - first:
+      213: 5561854312427369211
+    second: TimeDialog_6
+  - first:
+      213: -5492641747887253019
+    second: TimeDialog_7
+  - first:
+      213: 7611554553247675991
+    second: TimeDialog_8
+  - first:
+      213: 673005114604585064
+    second: TimeDialog_9
+  - first:
+      213: -1172664975421700318
+    second: TimeDialog_10
+  - first:
+      213: 3803004486572031648
+    second: TimeDialog_11
+  - first:
+      213: -2229381685763787224
+    second: TimeDialog_12
+  - first:
+      213: 6989422332219839059
+    second: TimeDialog_13
+  - first:
+      213: -3869140528985525263
+    second: TimeDialog_14
+  - first:
+      213: -734869305050653837
+    second: TimeDialog_15
+  - first:
+      213: 2245531844551793531
+    second: TimeDialog_16
+  - first:
+      213: 8863055753325073780
+    second: TimeDialog_17
+  - first:
+      213: 5944296799740500162
+    second: TimeDialog_18
+  - first:
+      213: -1020909596275470969
+    second: TimeDialog_19
+  - first:
+      213: 7111419292553662903
+    second: TimeDialog_20
+  - first:
+      213: -8511697589265727946
+    second: TimeDialog_21
+  - first:
+      213: -4731898123294528064
+    second: TimeDialog_22
+  - first:
+      213: 1770256263851181662
+    second: TimeDialog_23
+  - first:
+      213: -6494049930939269440
+    second: TimeDialog_24
+  - first:
+      213: -5535253275546863603
+    second: TimeDialog_25
+  - first:
+      213: -1658436911109087441
+    second: TimeDialog_26
+  - first:
+      213: -8020743536586239338
+    second: TimeDialog_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TimeDialog_0
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1088
+        width: 9
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b69d462d3d6080800000000000000
+      internalID: -9192624029673540213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1090
+        width: 9
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763aab8acb1efce70800000000000000
+      internalID: 9137770369358930791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1091
+        width: 6
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729366734c89f2b30800000000000000
+      internalID: 4264795340653607207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1090
+        width: 33
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd48e654ede24a0800000000000000
+      internalID: -6616106412772368620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1088
+        width: 9
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe88420fcffa09920800000000000000
+      internalID: 2995087253096925423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 799
+        width: 255
+        height: 326
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b88a96f20b52d0800000000000000
+      internalID: -3289031844686153787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1083
+        width: 15
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf235b8770daf2d40800000000000000
+      internalID: 5561854312427369211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1085
+        width: 12
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e913ba7e6736c3b0800000000000000
+      internalID: -5492641747887253019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1080
+        width: 11
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b5d6d98ca1a960800000000000000
+      internalID: 7611554553247675991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 820
+        width: 276
+        height: 260
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8600704069ef65900800000000000000
+      internalID: 673005114604585064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 995
+        width: 86
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227827bfa6bd9bfe0800000000000000
+      internalID: -1172664975421700318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 959
+        width: 4
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb75d6e6cf6c430800000000000000
+      internalID: 3803004486572031648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 939
+        width: 4
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b9472b25af01e0800000000000000
+      internalID: -2229381685763787224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 817
+        width: 93
+        height: 95
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3525521649a6ff060800000000000000
+      internalID: 6989422332219839059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 812
+        width: 19
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f330cf303d0e4ac0800000000000000
+      internalID: -3869140528985525263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 814
+        width: 15
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b1e14b2483dc5f0800000000000000
+      internalID: -734869305050653837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 810
+        width: 19
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b5656b05bb92f10800000000000000
+      internalID: 2245531844551793531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 809
+        width: 21
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4755c69cf36effa70800000000000000
+      internalID: 8863055753325073780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 811
+        width: 9
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81604f1726e7250800000000000000
+      internalID: 5944296799740500162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 812
+        width: 9
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8636912005d1f0800000000000000
+      internalID: -1020909596275470969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 455
+        width: 303
+        height: 298
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1558d2b26d0b260800000000000000
+      internalID: 7111419292553662903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 411
+        width: 319
+        height: 347
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7444b32060e980800000000000000
+      internalID: -8511697589265727946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 556
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd21bf3abbe45eb0800000000000000
+      internalID: -4731898123294528064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 120
+        width: 296
+        height: 280
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56824851b6319810800000000000000
+      internalID: 1770256263851181662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_24
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 355
+        width: 55
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef6b8aeff70e5a0800000000000000
+      internalID: -6494049930939269440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 355
+        width: 115
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0836311974de23b0800000000000000
+      internalID: -5535253275546863603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_26
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 355
+        width: 58
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f52f68a6c0cf8e0800000000000000
+      internalID: -1658436911109087441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeDialog_27
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 131
+        width: 288
+        height: 222
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692544bcf3890b090800000000000000
+      internalID: -8020743536586239338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
